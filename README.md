@@ -157,7 +157,7 @@ If you find JourneyCraft useful or interesting, consider giving this repository 
 
 ## 👨‍💻 Developer
 
-**GitHub:** https://github.com/YOUR_USERNAME
+**GitHub:** https://github.com/Rithik-joshi
 
 ---
 
